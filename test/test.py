@@ -1,5 +1,5 @@
 # SPDX-FileCopyrightText: © 2024 Tiny Tapeout
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: MIT0
 #imnport the coco functionality
 import cocotb
 from cocotb.clock import Clock
