@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2024 Your Name
+ * Copyright © Tiny Tapeout
  * SPDX-License-Identifier: Apache-2.0
  */
 `default_nettype none
